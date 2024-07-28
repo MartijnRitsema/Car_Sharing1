@@ -1,0 +1,69 @@
+type: edu
+files:
+  - name: src/carsharing/Main.java
+    visible: true
+    learner_created: false
+  - name: test/CarSharingTest.java
+    visible: false
+    learner_created: false
+  - name: test/DatabaseUtil.java
+    visible: false
+    learner_created: false
+  - name: src/carsharing/Database/DatabaseConfig.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Database/DatabaseManager.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Company/Company.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Menu/MenuOption.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Company/CompanyDAO.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Company/CompanyDAOImpl.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Menu/MenuHandler.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Car/Car.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Car/CarDAO.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Car/CarDAOImpl.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/DatabaseConfig.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/DatabaseManager.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/Company.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/CompanyDAO.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/CompanyDAOImpl.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/MenuOption.java
+    visible: true
+    learner_created: true
+  - name: src/carsharing/MenuHandler.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11502#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Fri, 26 Jul 2024 07:47:19 UTC"
+record: 1
